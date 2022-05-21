@@ -3,7 +3,6 @@ import Characteristics from "./components/Characteristics";
 import Navbar from "./components/Navbar";
 import PostsLinks from "./components/PostsLinks";
 import './App.css';
-import BreadCrum from "./components/BreadCrum";
 
 
 function App() {
